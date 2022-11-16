@@ -1,0 +1,1 @@
+# Herencia por Tipo
